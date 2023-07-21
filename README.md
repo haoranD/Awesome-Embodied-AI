@@ -8,17 +8,47 @@ A curated list of awesome papers on Embodied AI and related research/industry-dr
 Embodied AI has led to a new breakthrough, and this repository will keep tracking and summarizing the research or industrial progress.
 
 Contribution is highly welcome and feel free to submit a pull request or contact me.
+
 + :octocat: paper with Code
+
 **This project is curated and maintained by [Haoran Duan](https://haorand.github.io/), ....**
 
 If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️.
+
+## Contents
+- [News](#News)
+- [MISCs](#MISCs)
+- [Projects](#Projects)
+- [Papers](#Papers)
+  - [LLM-Driven](#LLM)
+  - [Navigation](#N)
+
+<a name="News" />
 
 ## News
 ```
 - 21.07.2023: An initial version of recent papers or projects.
 ```
 
-## Workshops, tutorials, 
-```
+<a name="MISCs" />
+
+## Workshops, tutorials, talks, etc.
 - [CVPR-Workshop](https://embodied-ai.org/)
-```
+
+<a name="Projects" />
+
+## Simulators
+
+<a name="Papers" />
+
+## Papers
+
+<a name="LLM" />
+
+### LLM-Driven
+
+
+<a name="N" />
+
+### Navigation
+- Thanks to [Changan's repository](https://github.com/ChanganVR/awesome-embodied-vision)
