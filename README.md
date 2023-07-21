@@ -20,6 +20,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 - [MISCs](#MISCs)
 - [Projects](#Projects)
 - [Papers](#Papers)
+  - [Survey](#Survey)
   - [LLM-Driven](#LLM)
   - [Navigation](#N)
 
@@ -43,9 +44,18 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 ## Papers
 
+<a name="Survey" />
+
+### Survey
+
++ [A Survey of Embodied AI: From Simulators to Research Tasks](https://arxiv.org/pdf/2103.04918.pdf)
+
+
 <a name="LLM" />
 
 ### LLM-Driven
+
++ [Embodied Task Planning with Large Language Models](https://gary3410.github.io/TaPA/) :octocat:
 
 
 <a name="N" />
