@@ -37,7 +37,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 <a name="Projects" />
 
-## Simulators
+## Projects
 
 <a name="Papers" />
 
