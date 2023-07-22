@@ -11,8 +11,6 @@ Contribution is highly welcome and feel free to submit a pull request or contact
 
 + :octocat: paper with Code
 
-**This project is curated and maintained by [Haoran Duan](https://haorand.github.io/), ....**
-
 If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️.
 
 ## Contents
@@ -35,6 +33,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 ## Workshops, tutorials, talks, etc.
 - [CVPR-Workshop](https://embodied-ai.org/)
+- [CS539-OregonStateUniversity](https://web.engr.oregonstate.edu/~leestef/courses/2019/fall/cs539.html)
 
 <a name="Projects" />
 
@@ -56,6 +55,11 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 ### LLM-Driven
 
 + [Embodied Task Planning with Large Language Models](https://gary3410.github.io/TaPA/) :octocat:
++ [Building Cooperative Embodied Agents Modularly with Large Language Models](https://vis-www.cs.umass.edu/Co-LLM-Agents/) :octocat:
++ [State-Maintaining Language Models for Embodied Reasoning](https://statler-lm.github.io/) :octocat:
++ [Embodied Executable Policy Learning with Language-based Scene Summarization](https://arxiv.org/pdf/2306.05696.pdf)
++ [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://voyager.minedojo.org/) :octocat:
++ [Simple Embodied Language Learning as a Byproduct of Meta-Reinforcement Learning](https://arxiv.org/pdf/2306.08400.pdf) :octocat:
 
 
 <a name="N" />
