@@ -75,5 +75,4 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 + [Emergent Communication for Embodied Control](http://openaccess.thecvf.com//content/CVPR2023/papers/Mu_EC2_Emergent_Communication_for_Embodied_Control_CVPR_2023_paper.pdf)
 + [Simple but Effective: CLIP Embeddings for Embodied AI](https://github.com/allenai/embodied-clip) :octocat:
 + [Embodied AI-Driven Operation of Smart Cities: A Concise Review](https://arxiv.org/pdf/2108.09823v1.pdf)
-
-
++ [Modeling Dynamic Environments with Scene Graph Memory](https://proceedings.mlr.press/v202/kurenkov23a/kurenkov23a.pdf) :octocat:
