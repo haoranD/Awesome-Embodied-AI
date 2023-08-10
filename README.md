@@ -21,6 +21,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
   - [Survey](#Survey)
   - [LLM-Driven](#LLM)
   - [Navigation](#N)
+  - [R&D](#RD)
   - [General](#general)
 
 <a name="News" />
@@ -50,6 +51,16 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 + [A Survey of Embodied AI: From Simulators to Research Tasks](https://arxiv.org/pdf/2103.04918.pdf)
 
+<a name="N" />
+
+### Navigation
+- Thanks to [Changan's repository](https://github.com/ChanganVR/awesome-embodied-vision)
+
+
+<a name="RD" />
+
+### R&D
+- Thanks to [Rui's repository](https://github.com/ray-ruisun/AIA)
 
 <a name="LLM" />
 
@@ -61,11 +72,6 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 + [Embodied Executable Policy Learning with Language-based Scene Summarization](https://arxiv.org/pdf/2306.05696.pdf)
 + [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://voyager.minedojo.org/) :octocat:
 + [Simple Embodied Language Learning as a Byproduct of Meta-Reinforcement Learning](https://arxiv.org/pdf/2306.08400.pdf) :octocat:
-
-<a name="N" />
-
-### Navigation
-- Thanks to [Changan's repository](https://github.com/ChanganVR/awesome-embodied-vision)
 
 <a name="General" />
 
