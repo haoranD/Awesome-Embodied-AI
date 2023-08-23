@@ -50,6 +50,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 ### Survey
 
 + [A Survey of Embodied AI: From Simulators to Research Tasks](https://arxiv.org/pdf/2103.04918.pdf)
++ [A Survey on LLM-based Autonomous Agents](https://github.com/Paitesanshi/LLM-Agent-Survey)
 
 <a name="N" />
 
