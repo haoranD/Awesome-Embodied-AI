@@ -56,11 +56,11 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 ### Navigation
 - Thanks to [Changan's repository](https://github.com/ChanganVR/awesome-embodied-vision)
 
-
 <a name="RD" />
 
 ### R&D
 - Thanks to [Rui's repository](https://github.com/ray-ruisun/AIA)
++ [OpenAgent](https://github.com/dot-agent/openagent) :octocat:
 
 <a name="LLM" />
 
