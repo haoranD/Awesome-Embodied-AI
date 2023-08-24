@@ -20,6 +20,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 - [Papers](#Papers)
   - [Survey](#Survey)
   - [LLM-Driven](#LLM)
+  - [Robotics](#Robotics)
   - [Navigation](#N)
   - [R&D](#RD)
   - [Trendings](#trendings)
@@ -51,6 +52,11 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 + [A Survey of Embodied AI: From Simulators to Research Tasks](https://arxiv.org/pdf/2103.04918.pdf)
 + [A Survey on LLM-based Autonomous Agents](https://github.com/Paitesanshi/LLM-Agent-Survey)
+
+<a name="Robotics" />
+
+### Robotics
+- Thanks to [GT-RIPL's repository](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
 
 <a name="N" />
 
