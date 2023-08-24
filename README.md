@@ -52,6 +52,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 + [A Survey of Embodied AI: From Simulators to Research Tasks](https://arxiv.org/pdf/2103.04918.pdf)
 + [A Survey on LLM-based Autonomous Agents](https://github.com/Paitesanshi/LLM-Agent-Survey)
++ [Mindstorms in Natural Language-Based Societies of Mind](https://arxiv.org/pdf/2305.17066.pdf)
 
 <a name="Robotics" />
 
