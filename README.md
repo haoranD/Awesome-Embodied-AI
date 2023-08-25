@@ -34,9 +34,11 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 <a name="MISCs" />
 
-## Workshops, tutorials, talks, etc.
+## Workshops, tutorials, talks, blogs, etc.
 - [CVPR-Workshop](https://embodied-ai.org/)
+- [ICCV-Workshop](https://iccv-clvl.github.io/2023/#speakers-section)
 - [CS539-OregonStateUniversity](https://web.engr.oregonstate.edu/~leestef/courses/2019/fall/cs539.html)
+- [ChatGPT for Robotics: Design Principles and Model Abilities](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/)
 
 <a name="Projects" />
 
@@ -58,6 +60,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 ### Robotics
 - Thanks to [GT-RIPL's repository](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
+- Thanks to [Jacob Rintamaki's repository](https://github.com/jrin771/Everything-LLMs-And-Robotics)
 
 <a name="N" />
 
