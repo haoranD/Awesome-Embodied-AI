@@ -83,6 +83,8 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 + [Embodied Executable Policy Learning with Language-based Scene Summarization](https://arxiv.org/pdf/2306.05696.pdf)
 + [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://voyager.minedojo.org/) :octocat:
 + [Simple Embodied Language Learning as a Byproduct of Meta-Reinforcement Learning](https://arxiv.org/pdf/2306.08400.pdf) :octocat:
++ [Vision-Language Tasks](https://github.com/jingyi0000/VLM_survey) :octocat:
+
 
 <a name="trendings" />
 
