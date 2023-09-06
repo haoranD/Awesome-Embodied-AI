@@ -77,6 +77,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 ### LLM-Driven
 
++ [ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models](https://github.com/modelscope/modelscope-agent) :octocat:
 + [Embodied Task Planning with Large Language Models](https://gary3410.github.io/TaPA/) :octocat:
 + [Building Cooperative Embodied Agents Modularly with Large Language Models](https://vis-www.cs.umass.edu/Co-LLM-Agents/) :octocat:
 + [State-Maintaining Language Models for Embodied Reasoning](https://statler-lm.github.io/) :octocat:
