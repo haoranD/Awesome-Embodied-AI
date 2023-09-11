@@ -77,6 +77,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 ### LLM-Driven
 
++ [AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents](https://github.com/OpenBMB/AgentVerse) :octocat:
 + [ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models](https://github.com/modelscope/modelscope-agent) :octocat:
 + [Embodied Task Planning with Large Language Models](https://gary3410.github.io/TaPA/) :octocat:
 + [Building Cooperative Embodied Agents Modularly with Large Language Models](https://vis-www.cs.umass.edu/Co-LLM-Agents/) :octocat:
@@ -85,7 +86,6 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 + [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://voyager.minedojo.org/) :octocat:
 + [Simple Embodied Language Learning as a Byproduct of Meta-Reinforcement Learning](https://arxiv.org/pdf/2306.08400.pdf) :octocat:
 + [Vision-Language Tasks](https://github.com/jingyi0000/VLM_survey) :octocat:
-
 
 <a name="trendings" />
 
