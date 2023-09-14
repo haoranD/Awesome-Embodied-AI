@@ -86,12 +86,14 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 + [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://voyager.minedojo.org/) :octocat:
 + [Simple Embodied Language Learning as a Byproduct of Meta-Reinforcement Learning](https://arxiv.org/pdf/2306.08400.pdf) :octocat:
 + [Vision-Language Tasks](https://github.com/jingyi0000/VLM_survey) :octocat:
++ [Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf](https://arxiv.org/abs/2309.04658)
 
 <a name="trendings" />
 
 ### Trendings
 
 #### 2023
++ [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://github.com/geekan/MetaGPT):octocat:
 + [Alexa, play with robot: Introducing the First Alexa Prize SimBot Challenge on Embodied AI](https://arxiv.org/pdf/2308.05221.pdf)
 + [Emergent Communication for Embodied Control](http://openaccess.thecvf.com//content/CVPR2023/papers/Mu_EC2_Emergent_Communication_for_Embodied_Control_CVPR_2023_paper.pdf)
 + [Simple but Effective: CLIP Embeddings for Embodied AI](https://github.com/allenai/embodied-clip) :octocat:
