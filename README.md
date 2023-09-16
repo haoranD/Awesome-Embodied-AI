@@ -77,6 +77,8 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 ### LLM-Driven
 
++ [An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents):octocat:
++ [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://github.com/geekan/MetaGPT):octocat:
 + [AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents](https://github.com/OpenBMB/AgentVerse) :octocat:
 + [ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models](https://github.com/modelscope/modelscope-agent) :octocat:
 + [Embodied Task Planning with Large Language Models](https://gary3410.github.io/TaPA/) :octocat:
@@ -93,9 +95,11 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 ### Trendings
 
 #### 2023
-+ [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://github.com/geekan/MetaGPT):octocat:
+
 + [Alexa, play with robot: Introducing the First Alexa Prize SimBot Challenge on Embodied AI](https://arxiv.org/pdf/2308.05221.pdf)
 + [Emergent Communication for Embodied Control](http://openaccess.thecvf.com//content/CVPR2023/papers/Mu_EC2_Emergent_Communication_for_Embodied_Control_CVPR_2023_paper.pdf)
 + [Simple but Effective: CLIP Embeddings for Embodied AI](https://github.com/allenai/embodied-clip) :octocat:
 + [Embodied AI-Driven Operation of Smart Cities: A Concise Review](https://arxiv.org/pdf/2108.09823v1.pdf)
 + [Modeling Dynamic Environments with Scene Graph Memory](https://proceedings.mlr.press/v202/kurenkov23a/kurenkov23a.pdf) :octocat:
++ [An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents):octocat:
++ [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://github.com/geekan/MetaGPT):octocat:
