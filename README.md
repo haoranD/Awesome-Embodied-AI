@@ -52,6 +52,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 ### Survey
 
++ [The Rise and Potential of Large Language Model Based Agents: A Survey](https://github.com/WooooDyy/LLM-Agent-Paper-List)
 + [A Survey of Embodied AI: From Simulators to Research Tasks](https://arxiv.org/pdf/2103.04918.pdf)
 + [A Survey on LLM-based Autonomous Agents](https://github.com/Paitesanshi/LLM-Agent-Survey)
 + [Mindstorms in Natural Language-Based Societies of Mind](https://arxiv.org/pdf/2305.17066.pdf)
@@ -77,6 +78,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 ### LLM-Driven
 
++ [The Rise and Potential of Large Language Model Based Agents: A Survey](https://github.com/WooooDyy/LLM-Agent-Paper-List):octocat:
 + [An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents):octocat:
 + [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://github.com/geekan/MetaGPT):octocat:
 + [AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents](https://github.com/OpenBMB/AgentVerse) :octocat:
