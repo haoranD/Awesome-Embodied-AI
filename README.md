@@ -97,7 +97,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 ### Trendings
 
 #### 2023
-
++ [MINDAGENT: EMERGENT GAMING INTERACTION](https://arxiv.org/pdf/2309.09971.pdf)
 + [Alexa, play with robot: Introducing the First Alexa Prize SimBot Challenge on Embodied AI](https://arxiv.org/pdf/2308.05221.pdf)
 + [Emergent Communication for Embodied Control](http://openaccess.thecvf.com//content/CVPR2023/papers/Mu_EC2_Emergent_Communication_for_Embodied_Control_CVPR_2023_paper.pdf)
 + [Simple but Effective: CLIP Embeddings for Embodied AI](https://github.com/allenai/embodied-clip) :octocat:
