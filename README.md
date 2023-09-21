@@ -78,6 +78,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 ### LLM-Driven
 
++ [AgentBench: Evaluating LLMs as Agents](https://github.com/THUDM/AgentBench):octocat:
 + [The Rise and Potential of Large Language Model Based Agents: A Survey](https://github.com/WooooDyy/LLM-Agent-Paper-List):octocat:
 + [An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents):octocat:
 + [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://github.com/geekan/MetaGPT):octocat:
@@ -97,6 +98,8 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 ### Trendings
 
 #### 2023
+
++ [AgentBench: Evaluating LLMs as Agents](https://github.com/THUDM/AgentBench):octocat:
 + [MINDAGENT: EMERGENT GAMING INTERACTION](https://arxiv.org/pdf/2309.09971.pdf)
 + [Alexa, play with robot: Introducing the First Alexa Prize SimBot Challenge on Embodied AI](https://arxiv.org/pdf/2308.05221.pdf)
 + [Emergent Communication for Embodied Control](http://openaccess.thecvf.com//content/CVPR2023/papers/Mu_EC2_Emergent_Communication_for_Embodied_Control_CVPR_2023_paper.pdf)
