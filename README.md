@@ -98,7 +98,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 ### Trendings
 
 #### 2023
-
++ [HOW FAR ARE LARGE LANGUAGE MODELS FROM AGENTS WITH THEORY-OF-MIND?](https://arxiv.org/pdf/2310.03051.pdf)
 + [AgentBench: Evaluating LLMs as Agents](https://github.com/THUDM/AgentBench):octocat:
 + [MINDAGENT: EMERGENT GAMING INTERACTION](https://arxiv.org/pdf/2309.09971.pdf)
 + [Alexa, play with robot: Introducing the First Alexa Prize SimBot Challenge on Embodied AI](https://arxiv.org/pdf/2308.05221.pdf)
