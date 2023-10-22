@@ -100,6 +100,8 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 ### Trendings
 
 #### 2023
+
++ [Waymax: An accelerated simulator for autonomous driving research](https://github.com/waymo-research/waymax/tree/main):octocat:
 + [HOW FAR ARE LARGE LANGUAGE MODELS FROM AGENTS WITH THEORY-OF-MIND?](https://arxiv.org/pdf/2310.03051.pdf)
 + [AgentBench: Evaluating LLMs as Agents](https://github.com/THUDM/AgentBench):octocat:
 + [MINDAGENT: EMERGENT GAMING INTERACTION](https://arxiv.org/pdf/2309.09971.pdf)
