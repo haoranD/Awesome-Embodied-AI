@@ -79,6 +79,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 ### LLM-Driven
 
 + [AutoGen, EcoOptiGen](https://github.com/microsoft/autogen):octocat:
++ [AgentTuning: Enabling Generalized Agent Abilities For LLMs](https://github.com/THUDM/AgentTuning):octocat:
 + [AgentBench: Evaluating LLMs as Agents](https://github.com/THUDM/AgentBench):octocat:
 + [The Rise and Potential of Large Language Model Based Agents: A Survey](https://github.com/WooooDyy/LLM-Agent-Paper-List):octocat:
 + [An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents):octocat:
