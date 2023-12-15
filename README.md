@@ -63,6 +63,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 - Thanks to [GT-RIPL's repository](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
 - Thanks to [Jacob Rintamaki's repository](https://github.com/jrin771/Everything-LLMs-And-Robotics)
 - Thanks to [Jiankai-Sun's repository](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)
+- Thanks to [Yafei Hu's repository](https://github.com/JeffreyYH/robotics-fm-survey)
 
 <a name="N" />
 
@@ -102,6 +103,8 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 #### 2023
 
++ [Language Guided Generation of 3D Embodied AI Environments](https://github.com/allenai/Holodeck):octocat:
++ [CogAgent: Visual Expert for Pretrained Language Models](https://github.com/THUDM/CogVLM):octocat:
 + [ProAgent: from Robotic Process Automation to Agentic Process Automation](https://github.com/OpenBMB/ProAgent):octocat:
 + [Waymax: An accelerated simulator for autonomous driving research](https://github.com/waymo-research/waymax/tree/main):octocat:
 + [HOW FAR ARE LARGE LANGUAGE MODELS FROM AGENTS WITH THEORY-OF-MIND?](https://arxiv.org/pdf/2310.03051.pdf)
