@@ -62,6 +62,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 ### Robotics
 - Thanks to [GT-RIPL's repository](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
 - Thanks to [Jacob Rintamaki's repository](https://github.com/jrin771/Everything-LLMs-And-Robotics)
+- Thanks to [Jiankai-Sun's repository](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)
 
 <a name="N" />
 
