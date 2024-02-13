@@ -80,6 +80,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 ### LLM-Driven
 
++ [An Interactive Agent Foundation Model](https://arxiv.org/pdf/2402.05929.pdf)
 + [AutoGen, EcoOptiGen](https://github.com/microsoft/autogen):octocat:
 + [AgentTuning: Enabling Generalized Agent Abilities For LLMs](https://github.com/THUDM/AgentTuning):octocat:
 + [AgentBench: Evaluating LLMs as Agents](https://github.com/THUDM/AgentBench):octocat:
@@ -100,6 +101,10 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 <a name="trendings" />
 
 ### Trendings
+
+#### 2024
+
++ [An Interactive Agent Foundation Model](https://arxiv.org/pdf/2402.05929.pdf)
 
 #### 2023
 
