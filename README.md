@@ -105,6 +105,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 #### 2024
 
 + [An Interactive Agent Foundation Model](https://arxiv.org/pdf/2402.05929.pdf)
++ [UF:A UI-Focused Agent for Windows OS Interaction](https://github.com/microsoft/UFO):octocat:
 
 #### 2023
 
