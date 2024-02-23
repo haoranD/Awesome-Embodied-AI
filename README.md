@@ -16,7 +16,6 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 ## Contents
 - [News](#News)
 - [MISCs](#MISCs)
-- [Projects](#Projects)
 - [Papers](#Papers)
   - [Survey](#Survey)
   - [LLM-Driven](#LLM)
@@ -40,18 +39,23 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 - [CS539-OregonStateUniversity](https://web.engr.oregonstate.edu/~leestef/courses/2019/fall/cs539.html)
 - [ChatGPT for Robotics: Design Principles and Model Abilities](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/)
 
-<a name="Projects" />
-
-## Projects
-
 <a name="Papers" />
 
 ## Papers
 
 <a name="Survey" />
 
+#### 2024
+
++ [AgentScope: A Flexible yet Robust Multi-Agent Platform](https://github.com/modelscope/agentscope):octocat:
++ [MuLan: Multimodal-LLM Agent for Progressive Multi-Object Diffusion](https://measure-infinity.github.io/mulan/):octocat:
++ [Vision-Language Navigation with Embodied Intelligence: A Survey](https://arxiv.org/abs/2402.14304)
++ [An Interactive Agent Foundation Model](https://arxiv.org/pdf/2402.05929.pdf)
++ [UFO:A UI-Focused Agent for Windows OS Interaction](https://github.com/microsoft/UFO):octocat:
+
 ### Survey
 
++ [Vision-Language Navigation with Embodied Intelligence: A Survey](https://arxiv.org/abs/2402.14304)
 + [The Rise and Potential of Large Language Model Based Agents: A Survey](https://github.com/WooooDyy/LLM-Agent-Paper-List)
 + [A Survey of Embodied AI: From Simulators to Research Tasks](https://arxiv.org/pdf/2103.04918.pdf)
 + [A Survey on LLM-based Autonomous Agents](https://github.com/Paitesanshi/LLM-Agent-Survey)
@@ -101,11 +105,6 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 <a name="trendings" />
 
 ### Trendings
-
-#### 2024
-
-+ [An Interactive Agent Foundation Model](https://arxiv.org/pdf/2402.05929.pdf)
-+ [UFO:A UI-Focused Agent for Windows OS Interaction](https://github.com/microsoft/UFO):octocat:
 
 #### 2023
 
