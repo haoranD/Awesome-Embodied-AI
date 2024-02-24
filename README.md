@@ -48,6 +48,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 #### 2024
 
 + [AgentScope: A Flexible yet Robust Multi-Agent Platform](https://github.com/modelscope/agentscope):octocat:
++ [MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI](https://github.com/MMMU-Benchmark/MMMU):octocat:
 + [MuLan: Multimodal-LLM Agent for Progressive Multi-Object Diffusion](https://measure-infinity.github.io/mulan/):octocat:
 + [Vision-Language Navigation with Embodied Intelligence: A Survey](https://arxiv.org/abs/2402.14304)
 + [An Interactive Agent Foundation Model](https://arxiv.org/pdf/2402.05929.pdf)
