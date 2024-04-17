@@ -7,9 +7,9 @@ A curated list of awesome papers on Embodied AI and related research/industry-dr
 
 Embodied AI has led to a new breakthrough, and this repository will keep tracking and summarizing the research or industrial progress.
 
-Contribution is highly welcome and feel free to submit a pull request or contact me.
-
-+ :octocat: paper with Code
+```
+- Contribution is highly welcome and feel free to submit a pull request or contact me.
+```
 
 If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️.
 
@@ -23,13 +23,6 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
   - [Navigation](#N)
   - [R&D](#RD)
   - [Trendings](#trendings)
-
-<a name="News" />
-
-## News
-```
-- 21.07.2023: An initial version of recent papers or projects.
-```
 
 <a name="MISCs" />
 
