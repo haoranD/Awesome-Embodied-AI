@@ -38,6 +38,15 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 <a name="Survey" />
 
+### Survey
+
++ [Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)
++ [Vision-Language Navigation with Embodied Intelligence: A Survey](https://arxiv.org/abs/2402.14304)
++ [The Rise and Potential of Large Language Model Based Agents: A Survey](https://github.com/WooooDyy/LLM-Agent-Paper-List)
++ [A Survey of Embodied AI: From Simulators to Research Tasks](https://arxiv.org/pdf/2103.04918.pdf)
++ [A Survey on LLM-based Autonomous Agents](https://github.com/Paitesanshi/LLM-Agent-Survey)
++ [Mindstorms in Natural Language-Based Societies of Mind](https://arxiv.org/pdf/2305.17066.pdf)
+
 #### 2024
 
 + Data Interpreter: An LLM Agent For Data Science
@@ -93,14 +102,6 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 + [Vision-Language Navigation with Embodied Intelligence: A Survey](https://arxiv.org/abs/2402.14304)
 + [An Interactive Agent Foundation Model](https://arxiv.org/pdf/2402.05929.pdf)
 + [UFO:A UI-Focused Agent for Windows OS Interaction](https://github.com/microsoft/UFO):octocat:
-
-### Survey
-
-+ [Vision-Language Navigation with Embodied Intelligence: A Survey](https://arxiv.org/abs/2402.14304)
-+ [The Rise and Potential of Large Language Model Based Agents: A Survey](https://github.com/WooooDyy/LLM-Agent-Paper-List)
-+ [A Survey of Embodied AI: From Simulators to Research Tasks](https://arxiv.org/pdf/2103.04918.pdf)
-+ [A Survey on LLM-based Autonomous Agents](https://github.com/Paitesanshi/LLM-Agent-Survey)
-+ [Mindstorms in Natural Language-Based Societies of Mind](https://arxiv.org/pdf/2305.17066.pdf)
 
 <a name="Robotics" />
 
