@@ -36,7 +36,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 ## Papers
 
-Please considering this fantastic survey ：
+Please do consider this fantastic paper ：
 [Agent AI: Surveying the Horizons of Multimodal Interaction](https://arxiv.org/abs/2401.03568)
 
 <a name="Survey" />
