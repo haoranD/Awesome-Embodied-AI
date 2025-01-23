@@ -50,6 +50,10 @@ Please do consider this fantastic paper ：
 + [A Survey on LLM-based Autonomous Agents](https://github.com/Paitesanshi/LLM-Agent-Survey)
 + [Mindstorms in Natural Language-Based Societies of Mind](https://arxiv.org/pdf/2305.17066.pdf)
 
+#### 2025
+
++ Lifelong Learning of Large Language Model based Agents: A Roadmap
+
 #### 2024
 
 + Data Interpreter: An LLM Agent For Data Science
