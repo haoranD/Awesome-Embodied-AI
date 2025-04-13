@@ -50,73 +50,16 @@ Please do consider this fantastic paper ：
 + [A Survey on LLM-based Autonomous Agents](https://github.com/Paitesanshi/LLM-Agent-Survey)
 + [Mindstorms in Natural Language-Based Societies of Mind](https://arxiv.org/pdf/2305.17066.pdf)
 
-#### 2025
-
-+ Lifelong Learning of Large Language Model based Agents: A Roadmap
-
-#### 2024
-
-+ Data Interpreter: An LLM Agent For Data Science
-+ Communicative Agents for Software Development
-+ Exposing Limitations of Language Model Agents in Sequential-Task Compositions on the Web
-+ Experiential Co-Learning of Software-Developing Agents
-+ EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction
-+ A survey of embodied ai: From simulators to research tasks
-+ Embodied AI in education: A review on the body, environment, and mind
-+ Agent ai: Surveying the horizons of multimodal interaction
-+ Learning to Generate Context-Sensitive Backchannel Smiles for Embodied AI Agents with Applications in Mental Health Dialogues
-+ Alexa arena: A user-centric interactive platform for embodied ai
-+ Artificial intelligence education for young children: A case study of technology‐enhanced embodied learning
-+ Embodiedgpt: Vision-language pre-training via embodied chain of thought
-+ Multimodal embodied interactive agent for cafe scene
-+ The Essential Role of Causality in Foundation World Models for Embodied AI
-+ A Survey on Robotics with Foundation Models: toward Embodied AI
-+ Where are we in the search for an artificial visual cortex for embodied intelligence?
-+ A Comprehensive Survey of Cross-Domain Policy Transfer for Embodied Agents
-+ The sense of agency in human–AI interactions
-+ " Don't forget to put the milk back!" Dataset for Enabling Embodied Agents to Detect Anomalous Situations
-+ Vision-Language Navigation with Embodied Intelligence: A Survey
-+ Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation
-+ Velma: Verbalization embodiment of llm agents for vision and language navigation in street view
-+ Spatially-Aware Transformer Memory for Embodied Agents
-+ VELMA: Verbalization Embodiment of LLM Agents for Vision and Language Navigation in Street View
-+ Embodied Human Activity Recognition
-+ LoTa-Bench: Benchmarking Language-oriented Task Planners for Embodied Agents
-+ EDGI: Equivariant diffusion for planning with embodied agents
-+ Large Multimodal Agents: A Survey
-+ Egocentric Planning for Scalable Embodied Task Achievement
-+ EnvGen: Generating and Adapting Environments via LLMs for Training Embodied Agents
-+ Human-agent teams in VR and the effects on trust calibration
-+ Talk with Ted: an embodied conversational agent for caregivers
-+ MOPA: Modular Object Navigation With PointGoal Agents
-+ Embodied Conversational Agents for Chronic Diseases: Scoping Review
-+ Towards anatomy education with generative AI-based virtual assistants in immersive virtual reality environments
-+ Improving Knowledge Extraction from LLMs for Task Learning through Agent Analysis
-+ A Survey on Large Language Model-Based Game Agents
-+ Autort: Embodied foundation models for large scale orchestration of robotic agents
-+ Towards Heterogeneous Multi-Agent Systems in Space
-+ Embodied Machine Learning
-+ Penetrative ai: Making llms comprehend the physical world
-+ WebVLN: Vision-and-Language Navigation on Websites
-+ Generating meaning: active inference and the scope and limits of passive AI
-+ RoboHive: A Unified Framework for Robot Learning
-+ Grounded Decoding: Guiding Text Generation with Grounded Models for Embodied Agents
-+ Turing Test in the Era of LLM
-+ Generative Models for Decision Making
-+ [AgentScope: A Flexible yet Robust Multi-Agent Platform](https://github.com/modelscope/agentscope):octocat:
-+ [MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI](https://github.com/MMMU-Benchmark/MMMU):octocat:
-+ [MuLan: Multimodal-LLM Agent for Progressive Multi-Object Diffusion](https://measure-infinity.github.io/mulan/):octocat:
-+ [Vision-Language Navigation with Embodied Intelligence: A Survey](https://arxiv.org/abs/2402.14304)
-+ [An Interactive Agent Foundation Model](https://arxiv.org/pdf/2402.05929.pdf)
-+ [UFO:A UI-Focused Agent for Windows OS Interaction](https://github.com/microsoft/UFO):octocat:
-
 <a name="Robotics" />
 
-### Robotics
-- Thanks to [GT-RIPL's repository](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
-- Thanks to [Jacob Rintamaki's repository](https://github.com/jrin771/Everything-LLMs-And-Robotics)
-- Thanks to [Jiankai-Sun's repository](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)
-- Thanks to [Yafei Hu's repository](https://github.com/JeffreyYH/robotics-fm-survey)
+### Emboddied AI and Robotics
+- [Tianxing CHEN's repository](https://tianxingchen.github.io/)
+- [Wenxuan Song's repository](https://github.com/Songwxuan/RSS2025-CVPR2025-ICLR2025-Embodied-AI-Paper-List?tab=readme-ov-file#rss2025)
+- [Qiang (Jony) ZHANG's repository](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln)
+- [GT-RIPL's repository](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
+- [Jacob Rintamaki's repository](https://github.com/jrin771/Everything-LLMs-And-Robotics)
+- [Jiankai-Sun's repository](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)
+- [Yafei Hu's repository](https://github.com/JeffreyYH/robotics-fm-survey)
 
 <a name="N" />
 
