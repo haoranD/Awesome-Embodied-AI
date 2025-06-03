@@ -14,15 +14,17 @@ Embodied AI has led to a new breakthrough, and this repository will keep trackin
 If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️.
 
 ## Contents
-- [News](#News)
-- [MISCs](#MISCs)
-- [Papers](#Papers)
-  - [Survey](#Survey)
-  - [LLM-Driven](#LLM)
-  - [Robotics](#Robotics)
-  - [Navigation](#N)
-  - [R&D](#RD)
-  - [Trendings](#trendings)
+- [Awesome-Embodied-AI](#awesome-embodied-ai)
+  - [Contents](#contents)
+  - [Workshops, tutorials, talks, blogs, etc.](#workshops-tutorials-talks-blogs-etc)
+  - [Papers](#papers)
+    - [Survey](#survey)
+    - [Emboddied AI and Robotics](#emboddied-ai-and-robotics)
+    - [Navigation](#navigation)
+    - [R\&D](#rd)
+    - [LLM-Driven](#llm-driven)
+    - [Trendings](#trendings)
+      - [2023](#2023)
 
 <a name="MISCs" />
 
@@ -76,6 +78,7 @@ Please do consider this fantastic paper ：
 
 ### LLM-Driven
 
++ [DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects](https://arxiv.org/abs/2410.02730)
 + [An Interactive Agent Foundation Model](https://arxiv.org/pdf/2402.05929.pdf)
 + [AutoGen, EcoOptiGen](https://github.com/microsoft/autogen):octocat:
 + [AgentTuning: Enabling Generalized Agent Abilities For LLMs](https://github.com/THUDM/AgentTuning):octocat:
