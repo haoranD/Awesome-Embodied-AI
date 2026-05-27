@@ -45,6 +45,7 @@ Please do consider this fantastic paper ：
 
 ### Survey
 
++ [Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses](https://arxiv.org/abs/2605.02900)
 + [Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)
 + [Vision-Language Navigation with Embodied Intelligence: A Survey](https://arxiv.org/abs/2402.14304)
 + [The Rise and Potential of Large Language Model Based Agents: A Survey](https://github.com/WooooDyy/LLM-Agent-Paper-List)
