@@ -33,6 +33,8 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 - [ICCV-Workshop](https://iccv-clvl.github.io/2023/#speakers-section)
 - [CS539-OregonStateUniversity](https://web.engr.oregonstate.edu/~leestef/courses/2019/fall/cs539.html)
 - [ChatGPT for Robotics: Design Principles and Model Abilities](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/)
+- [**Embodiment in Multimodal Large Language Models**]| [Github](https://github.com/embodiment-ai/embodiment-aias-2026) | [Workshop](https://embodiment-ai.org/)
+
 
 <a name="Papers" />
 
@@ -55,6 +57,7 @@ Please do consider this fantastic paper ：
 <a name="Robotics" />
 
 ### Emboddied AI and Robotics
+-| [**Embodiment in Multimodal Large Language Models**](https://www.cell.com/neuron/fulltext/S0896-6273(26)00168-6) | Neuron | 2026-06-01 | [Github](https://github.com/embodiment-ai/embodiment-aias-2026) | [Workshop](https://embodiment-ai.org/) |
 - [Tianxing CHEN's repository](https://tianxingchen.github.io/)
 - [Wenxuan Song's repository](https://github.com/Songwxuan/RSS2025-CVPR2025-ICLR2025-Embodied-AI-Paper-List?tab=readme-ov-file#rss2025)
 - [Qiang (Jony) ZHANG's repository](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln)
