@@ -33,6 +33,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 - [ICCV-Workshop](https://iccv-clvl.github.io/2023/#speakers-section)
 - [CS539-OregonStateUniversity](https://web.engr.oregonstate.edu/~leestef/courses/2019/fall/cs539.html)
 - [ChatGPT for Robotics: Design Principles and Model Abilities](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/)
+- [RobotWorld](https://robotworld.top/)
 
 <a name="Papers" />
 
