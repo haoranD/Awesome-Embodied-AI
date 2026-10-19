@@ -78,6 +78,9 @@ Please do consider this fantastic paper ：
 
 ### LLM-Driven
 
++ [RobotUse: Allocating Computation, Context, and Decisions](https://arxiv.org/abs/2610.04929) (2026 preprint) [Project](https://robotuse-team.github.io/)
++ [ACRO: Actor–Critic Rollout Orchestration](https://junhoo.me/acro/assets/paper/acro-preprint.pdf) (2026 preprint) [Project](https://junhoo.me/acro) [:octocat:](https://github.com/JunHoo-Lee/ACRO)
+
 + [DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects](https://arxiv.org/abs/2410.02730)
 + [An Interactive Agent Foundation Model](https://arxiv.org/pdf/2402.05929.pdf)
 + [AutoGen, EcoOptiGen](https://github.com/microsoft/autogen):octocat:
