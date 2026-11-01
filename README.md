@@ -73,6 +73,7 @@ Please do consider this fantastic paper ：
 ### R&D
 - Thanks to [Rui's repository](https://github.com/ray-ruisun/AIA)
 + [OpenAgent](https://github.com/dot-agent/openagent) :octocat:
++ [Cadence: an architecture for a continuous and efficient stream of intelligence](https://github.com/muellerberndt/cadence) :octocat:
 
 <a name="LLM" />
 
